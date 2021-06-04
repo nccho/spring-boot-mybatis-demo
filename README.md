@@ -1,2 +1,2 @@
 # spring-boot-mybatis-demo
-spring-boot and mybatis example
+spring-boot and mybatis example1
